@@ -1,0 +1,37 @@
+{
+  "name": "informatixpro-routing-manager",
+  "description": "Routing helper which creates CRUD routes for an generic object type and establishes the newly created routes with a controller",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Matt Ebersbach",
+      "email": "mebersbach@informatixpro.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InformatixPro/routing-manager"
+  },
+  "dependencies": {
+     "express": "4.12.3",
+     "body-parser": "1.12.4"
+  },
+  "devDependencies": {
+  },
+  "files": [
+    "lib/",
+    "index.js",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "scripts": {
+  },
+  "maintainers": [
+    {
+      "name": "Matthew Ebersbach",
+      "email": "mebersbach@informatixpro.com"
+    }
+  ]
+}
